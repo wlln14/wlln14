@@ -9,7 +9,7 @@
 
 
 
-<h2 align="center">Tecnologias e ferramentas que estou aprendendo:</h2>
+<h3 align="center">Tecnologias e ferramentas que estou aprendendo:</h3>
 
 ###
 
