@@ -8,7 +8,7 @@
 
 ###
 
-<h3 align="center">💻 Cursando curso de Desenvolvimento de Sistemas do Senai, atualmente indo para o 2° de curso<br><br>📍 SP, Capital</h3>
+
 
 ###
 
