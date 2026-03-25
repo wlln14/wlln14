@@ -6,8 +6,11 @@
 
 <h1 align="center">👋 Olá, eu sou o Willian</h1>
 
+###
 
-<h3 align="center">💻 Cursando curso de Desenvolvimento de Sistemas do Senai, atualmente indo para o 2° de curso<br><br>📍 SP, Capital</h3>
+<h3 align="center">💻 Cursando curso de Desenvolvimento de Sistemas do Senai, atualmente indo para o 2° de curso
+
+###
 
 <h3 align="center">Tecnologias e ferramentas que estou aprendendo:</h3>
 
