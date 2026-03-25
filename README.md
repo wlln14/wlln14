@@ -10,8 +10,6 @@
 
 
 
-###
-
 <h2 align="center">Tecnologias e ferramentas que estou aprendendo:</h2>
 
 ###
